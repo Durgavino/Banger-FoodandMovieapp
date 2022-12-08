@@ -41,3 +41,6 @@ This application allows a user to select a “meal item” and movie genre, that
 - Tinashe Malenga
 - Durgadevi Baskaran
 - Mathieu Despres
+
+#Deployed URL
+https://durgavino.github.io/Banger-FoodandMovieapp/app.html
